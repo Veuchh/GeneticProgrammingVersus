@@ -8,3 +8,5 @@ How to test :
 - Hit play
 - Wait for a few generations
 - Hit TAB to view the best performing members for each armies
+
+Video of the project working : https://youtu.be/qd4_6QSj7RE
